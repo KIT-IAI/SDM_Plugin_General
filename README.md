@@ -1,4 +1,4 @@
-# General PlugIn Repository for KITModelViewer
+# PlugIn Repository for KITModelViewer
 
 ## 
 
