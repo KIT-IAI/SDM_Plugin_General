@@ -18,11 +18,13 @@
 
 ### LiveLog Feature
 
-## Message Dialog Feature
+* log
+
+### Message Dialog Feature
 
 ### Renderer Features
 
-* Screenshot
+* takeScreenshot
 
 ### Idel Feature
 
