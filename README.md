@@ -16,6 +16,8 @@
 
 ### Document Feature
 
+* Provide acces to the current IfcDB population
+
 ### LiveLog Feature
 
 * log
