@@ -16,7 +16,7 @@
 
 ### Document Feature
 
-* Provide access to the IfcDB population of the active document
+* Provide full access to the internal IfcDB population of the active document
 
 ### LiveLog Feature
 
