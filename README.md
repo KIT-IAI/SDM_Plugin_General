@@ -24,7 +24,7 @@
 
 ### Message Dialog Feature
 
-### Renderer Features
+### Renderer Feature
 
 * takeScreenshot
 
