@@ -1,5 +1,6 @@
 # PlugIn Repository for KITModelViewer
-
+KITModelViewer has a plugin mechanism that allows you to develop your own extensions.
+Two plug-ins are already included in the download archive of the application. Two plug-ins are already included in the download archive of the KITModelViewer. One is a very simple "Hello World" example that shows the basic functionality of the plugin API and how to use it to access the internal database. The second plugin provides a simple Python API and allows you to create your own Python scripts that will be executed directly within the KITModelViewer.
 ## 
 
 
