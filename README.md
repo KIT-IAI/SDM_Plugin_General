@@ -4,13 +4,13 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 ## 
 
 
-[PlugIn Template](https://github.com/KIT-IAI/SDM_Plugin_Template) soon available
+[PlugIn Template](https://github.com/KIT-IAI/SDM_Plugin_Template) (publicly available soon)
 
-[Hello World](https://github.com/KIT-IAI/SDM_Plugin_HelloWorld) soon available
+[Hello World](https://github.com/KIT-IAI/SDM_Plugin_HelloWorld) (publicly available soon)
 
-[Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python) soon available
+[Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python) (publicly available soon)
 
-[Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) soon available
+[Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (publicly available soon)
 
 
 ## PlugIn Features
