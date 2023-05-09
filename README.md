@@ -21,13 +21,15 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 ### LiveLog Feature
 
-* log
+* Enables the output of messages in the LiveLog Toolbar of the application.
 
 ### Message Dialog Feature
 
+* Allows to use a standard dialog of the application to output messages
+
 ### Renderer Feature
 
-* takeScreenshot
+* Allows to create ScreenShots of the scene from a plugin
 
 ### Idel Feature
 
