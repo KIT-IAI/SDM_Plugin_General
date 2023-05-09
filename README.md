@@ -1,8 +1,6 @@
 # PlugIn Repository for KITModelViewer
 KITModelViewer has a plugin mechanism that allows you to develop your own extensions.
 Two plug-ins are already included in the download archive of the KITModelViewer. One is the very simple "Hello World" example that shows the basic functionality of the plugin API and how to use it to access the internal database. The second plugin provides a simple Python API and allows you to create your own Python scripts that will be executed directly within the KITModelViewer.
-## 
-
 
 [PlugIn Template](https://github.com/KIT-IAI/SDM_Plugin_Template) (publicly available soon)
 
@@ -12,33 +10,56 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 [Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (publicly available soon)
 
-
 ## PlugIn Features
 
-### Document Feature
+A plugin has multiple features that are used to communicate with the host application. 
 
-* Provide full access to the internal IfcDB population of the active document.
+### DocumentFeature
 
-### LiveLog Feature
+The ``DocumentFeature`` provides full access to the internal IfcDB population of the active document and a mechanism to notify the host application when changes occur.
 
-* Enables the output of messages in the LiveLog Toolbar of the application.
+Example:
 
-### Message Dialog Feature
+```c++
+class PluginWithDocumentObserver : public Plugin
+{
+public:
+    PluginWithDocumentObserver()
+    {
+        // when the document (IfcDB) changes, the lambda is called
+        m_documentObServer.attach([&](IfcDB::Populationi* db)
+        {
+            // the db is forwarded to another feature in the same plugin
+            m_anotherFeature.setDb(db);
+        });
+    }
+    
+private:
+    DocumentObserverImpl m_documentObserver;
+    AnotherFeature m_anotherFeature;
+};
+```
 
-* Allows to use a standard dialog of the application to output messages.
+### LiveLogFeature
 
-### Renderer Feature
+The ``LiveLogFeature`` enables the output of messages in the LiveLog Toolbar of the application.
 
-* Allows to create ScreenShots of the scene from a plugin.
+### MessageDialogFeature
 
-### Idel Feature
+The ``MessageDialogFeature`` shows a message dialog in the host application.
 
-* The Idle feature is needed to use custom UI frameworks like wxWidgets in a plugin.
+### RendererFeature
 
-### File Save Feature
+The ``RendererFeature`` allows to create screenshots of the scene from a plugin.
 
-* Allows saving objects from the PlugIn in different graphic formats such as OBJ, 3DS or STL.
+### IdleFeature
 
-### Color Coding Feature
+The ``IdleFeature`` provides a callback to the plugin from the host application's message loop. This callback may e.g. be used to feed the message loop of a UI library 
 
-* The ColorCoding feature can be used to control the coloring of objects in the scene.
+### FileSaveFeature
+
+The ``FileSaveFeature`` triggers the host application so save objects in different graphic formats (e.g. OBJ, 3DS or STL).
+
+### ColorCodingFeature
+
+The ``ColorCodingFeature`` can be used to control the coloring of objects in the scene.
