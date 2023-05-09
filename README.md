@@ -17,7 +17,7 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 ### Document Feature
 
-* Provide full access to the internal IfcDB population of the active document
+* Provide full access to the internal IfcDB population of the active document.
 
 ### LiveLog Feature
 
@@ -25,14 +25,20 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 ### Message Dialog Feature
 
-* Allows to use a standard dialog of the application to output messages
+* Allows to use a standard dialog of the application to output messages.
 
 ### Renderer Feature
 
-* Allows to create ScreenShots of the scene from a plugin
+* Allows to create ScreenShots of the scene from a plugin.
 
 ### Idel Feature
 
+* The Idle feature is needed to use custom UI frameworks like wxWidgets in a plugin.
+
 ### File Save Feature
 
+* Allows saving objects from the PlugIn in different graphic formats such as OBJ, 3DS or STL.
+
 ### Color Coding Feature
+
+* The ColorCoding feature can be used to control the coloring of objects in the scene.
