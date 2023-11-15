@@ -8,6 +8,8 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 [Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (publicly available soon)
 
+[Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc)
+
 ## PlugIn Features
 
 A plugin has multiple features that are used to communicate with the host application. 
