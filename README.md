@@ -10,6 +10,8 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 [Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc)
 
+[Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel) (publicly available soon)
+
 ## PlugIn Features
 
 A plugin has multiple features that are used to communicate with the host application. 
