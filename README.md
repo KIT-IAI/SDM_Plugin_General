@@ -10,7 +10,7 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | :---                 | :---                                       |
 | [Hello World](https://github.com/KIT-IAI/SDM_Plugin_HelloWorld) | Simple "Hello World" example for getting started with KITModelViewer plugin development |
 | [Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python)| Plugin that provides a python API for the KITModelViewer |
-| [Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (coming soon)|    |
+| [Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (coming soon)| Generation of paper models for individual CityGML building models   |
 | [Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc) | Calculation of the Glaser diagram for individual IFC building elements |
 | [Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel)|    |
 | [EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) (coming soon)|    |
