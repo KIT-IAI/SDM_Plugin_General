@@ -6,7 +6,7 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 [Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python)
 
-[Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (publicly available soon)
+[Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (coming soon)
 
 [Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc)
 
