@@ -12,6 +12,6 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python)| Plugin that provides a python API for the KITModelViewer |
 | [Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (coming soon)| Generation of paper models for individual CityGML building models   |
 | [Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc) | Calculation of the Glaser diagram for individual IFC building elements |
-| [Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel)|    |
-| [EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) (coming soon)|    |
-| [IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) (coming soon)|    |
+| [Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel)| Preparation and checking of IFC models for 3D printing |
+| [EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) (coming soon)| Enrichment of CityGML building models for thermal simulation through the use of EnergyADE |
+| [IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) (coming soon)| Python plugin for the calculation of trusses based on IFC structural analysis elements |
