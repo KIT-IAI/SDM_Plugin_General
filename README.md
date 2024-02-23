@@ -12,6 +12,10 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 [Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel)
 
+[EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) (coming soon)
+
+[IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) (coming soon)
+
 ## PlugIn Features
 
 A plugin has multiple features that are used to communicate with the host application. 
