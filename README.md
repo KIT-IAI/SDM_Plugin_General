@@ -2,6 +2,9 @@
 KITModelViewer has a plugin mechanism that allows you to develop your own extensions.
 Two plug-ins are already included in the download archive of the KITModelViewer. One is the very simple "Hello World" example that shows the basic functionality of the plugin API and how to use it to access the internal database. The second plugin provides a simple Python API and allows you to create your own Python scripts that will be executed directly within the KITModelViewer.
 
+[Plugin Feature Doucumentation](Plugin_Features.md)
+
+
 [Hello World](https://github.com/KIT-IAI/SDM_Plugin_HelloWorld)
 
 [Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python)
