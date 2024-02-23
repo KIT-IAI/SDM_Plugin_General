@@ -4,9 +4,9 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 [Plugin Feature Doucumentation](Plugin_Features.md)
 
-|Plugin Name          |Description                                |
-|:---                 |:---                                       |
-| [Hello World](https://github.com/KIT-IAI/SDM_Plugin_HelloWorld)|    |
+| Plugin Name          | Description                                |
+| :---                 | :---                                       |
+| [Hello World](https://github.com/KIT-IAI/SDM_Plugin_HelloWorld) | Simple "Hello World" example for getting started with KITModelViewer plugin development |
 | [Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python)|    |
 | [Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (coming soon)|    |
 | [Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc) | Calculation of the Glaser diagram for individual IFC building elements |
