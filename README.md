@@ -4,18 +4,19 @@ Two plug-ins are already included in the download archive of the KITModelViewer.
 
 [Plugin Feature Doucumentation](Plugin_Features.md)
 
+|Plugin Name          |Description                                |
+|:---                 |:---                                       |
 
-[Hello World](https://github.com/KIT-IAI/SDM_Plugin_HelloWorld)
+|[Hello World](https://github.com/KIT-IAI/SDM_Plugin_HelloWorld)|    |
 
-[Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python)
+|[Python API PlugIn](https://github.com/KIT-IAI/SDM_Plugin_Python)|    |
 
-[Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (coming soon)
+|[Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) (coming soon)|    |
 
-[Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc)
+|[Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc)|    |
 
-[Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel)
+|[Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel)|    |
 
-[EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) (coming soon)
+|[EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) (coming soon)|    |
 
-[IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) (coming soon)
-
+|[IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) (coming soon)|    |
