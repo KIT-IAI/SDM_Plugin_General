@@ -15,3 +15,4 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel)| Preparation and checking of IFC models for 3D printing |
 | [EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) <br>(coming soon)| Enrichment of CityGML building models for thermal simulation through the use of EnergyADE |
 | [IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) | Python plugin for the calculation of trusses based on IFC structural analysis elements |
+| [OSM BuildingCreater](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreater) <br>(coming soon)| Creating 3D buildings based on OpenStreetMap (OSM) |
