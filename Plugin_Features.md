@@ -36,6 +36,10 @@ The ``LiveLogFeature`` enables the output of messages in the LiveLog Toolbar of 
 
 The ``MessageDialogFeature`` shows a message dialog in the host application.
 
+### ProgressBarFeature
+
+The ``ProgressBarFeature`` shows a progress bar in the applications status bar.
+
 ### RendererFeature
 
 The ``RendererFeature`` allows to create screenshots of the scene from a plugin.
