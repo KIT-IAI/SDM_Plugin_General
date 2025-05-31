@@ -1,4 +1,4 @@
-## PlugIn Features
+## Plugin Features
 
 A plugin has multiple features that are used to communicate with the host application. 
 
