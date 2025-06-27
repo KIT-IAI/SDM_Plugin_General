@@ -55,3 +55,7 @@ The ``FileSaveFeature`` triggers the host application so save objects in differe
 ### ColorCodingFeature
 
 The ``ColorCodingFeature`` can be used to control the coloring of objects in the scene.
+
+### SettingsFeature
+
+The ``SettingsFeature`` can be used to get general settings from the host application.
