@@ -16,4 +16,4 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) <br>(coming soon)| Enrichment of CityGML building models for thermal simulation through the use of EnergyADE |
 | [IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) | Python plugin for the calculation of trusses based on IFC structural analysis elements |
 | [OSM BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator) <br>(coming soon)| Creating 3D buildings based on OpenStreetMap (OSM) |
-| [ETHOS.BUILDA BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_ETHOS_BUILDA_BuildingCreator) <br>(coming soon)| Creating 3D buildings based on [ETHOS.BUILDA](https://ethos-builda.fz-juelich.de/api/v8_20240916/swagger/) |
+| [ETHOS.BUILDA BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_ETHOS-BUILDA-BuildingCreator) <br>(coming soon)| Creating 3D buildings based on [ETHOS.BUILDA](https://ethos-builda.fz-juelich.de/api/v8_20240916/swagger/) |
