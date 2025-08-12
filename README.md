@@ -20,5 +20,5 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 
 ## Plugin installation
 
-KITModelViewer plugins available on github can be downloaded as a zip archive in the corresponding github project.
+KITModelViewer plugins available on GitHub can be downloaded as a zip archive in the corresponding GitHub project.
 For manual installation, copy the complete folder within the plugin archive into the “plugins” folder in the KITModelViewer directory.
