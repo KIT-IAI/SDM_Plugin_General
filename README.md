@@ -17,3 +17,8 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) | Python plugin for the calculation of trusses based on IFC structural analysis elements |
 | [OSM BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator) <br>(coming soon)| Creating 3D buildings based on OpenStreetMap (OSM) |
 | [ETHOS.BUILDA BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_ETHOS-BUILDA-BuildingCreator) <br>(coming soon)| Creating 3D buildings based on [ETHOS.BUILDA](https://ethos-builda.fz-juelich.de/api/v8_20240916/swagger/) |
+
+## Plugin installation
+
+KITModelViewer plugins available on github can be downloaded as a zip archive in the corresponding github project.
+For manual installation, copy the complete folder within the plugin archive into the “plugins” folder in the KITModelViewer directory.
