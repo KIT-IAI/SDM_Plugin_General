@@ -22,3 +22,7 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 
 KITModelViewer plugins available on GitHub can be downloaded as a zip archive in the corresponding GitHub project.
 For manual installation, copy the complete folder within the plugin archive into the “plugins” folder in the KITModelViewer directory.
+
+## Plugin developement
+Two APIs are available for the KITModelViewer. One is a [Python API](https://github.com/KIT-IAI/SDM_Plugin_Python) for the rapid development of compact scripts to evaluate the imported data or for the development of more complex Python plugins with integration of external modules. The Python Plugin is available as open source and is realized as a plugin based on the C++ plugin SDK.
+For more experienced developers with C++ knowledge, a [plugin SDK](https://github.com/KIT-IAI/SDM_Plugin_SDK) is available that provides full access to the internal data structures and functionalities.
