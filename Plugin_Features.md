@@ -59,3 +59,7 @@ The ``ColorCodingFeature`` can be used to control the coloring of objects in the
 ### SettingsFeature
 
 The ``SettingsFeature`` can be used to get general settings from the host application.
+
+### AppFeature
+
+The ``AppFeature`` offers various features such as loading files, web requests, etc. directly from a plugins.  
