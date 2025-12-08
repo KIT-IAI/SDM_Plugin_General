@@ -18,7 +18,7 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [OSM BuildingCreator LoD1](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator_LoD1)| Creating 3D CityGML buildings based on OpenStreetMap (OSM) |
 | [OSM BuildingCreator LoD2](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator_LoD2) <br>(coming soon)| Creating 3D CityGML buildings based on OpenStreetMap (OSM) |
 | [ETHOS.BUILDA BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_ETHOS-BUILDA-BuildingCreator) <br>(coming soon)| Creating 3D CityGML buildings based on [ETHOS.BUILDA](https://ethos-builda.fz-juelich.de/api/v8_20240916/swagger/) |
-| [GlobalBuildingAtlas BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) <br>(coming soon)| Creating 3D CityGML buildings based on [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) |
+| [GlobalBuildingAtlas BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator)| Creating 3D CityGML buildings based on [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) |
 | [Google 3D Tiles](https://github.com/KIT-IAI/SDM_Plugin_3DTiles)<br>(coming soon)| Plugin for integrating Google Maps 3D Tiles |
 
 ## Plugin installation
