@@ -62,4 +62,4 @@ The ``SettingsFeature`` can be used to get general settings from the host applic
 
 ### AppFeature
 
-The ``AppFeature`` offers various features of the application such as loading files, web requests, etc. in a plugin.  
+The ``AppFeature`` offers various features of the host application such as loading files, web requests, etc. in a plugin.  
