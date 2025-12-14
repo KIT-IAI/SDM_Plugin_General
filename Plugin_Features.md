@@ -46,7 +46,7 @@ The ``RendererFeature`` allows to create screenshots of the scene from a plugin.
 
 ### IdleFeature
 
-The ``IdleFeature`` provides a callback to the plugin from the host application's message loop. This callback may e.g. be used to feed the message loop of a UI library 
+The ``IdleFeature`` provides a callback to the plugin from the host application's message loop. This callback may e.g. be used to feed the message loop of a UI library.
 
 ### FileSaveFeature
 
