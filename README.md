@@ -4,7 +4,7 @@ Some plugins are already included in the download archive of the KITModelViewer.
 
 Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 
-## Overview of Plugins developed at IAI-SDM
+## Overview of Plugins developed at [IAI-SDM](https://www.iai.kit.edu/english/groups_1055.php)
 
 | Plugin Name          | Description                                |
 | :---                 | :---                                       |
