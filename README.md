@@ -21,6 +21,8 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [GlobalBuildingAtlas BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) | Creating 3D CityGML buildings based on [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) |
 | [Google 3D Tiles](https://github.com/KIT-IAI/SDM_Plugin_3DTiles) | Plugin for integrating Google Maps 3D Tiles |
 | [PolyVR](https://github.com/KIT-IAI/SDM_Plugin_polyvr_client)<br>(coming soon) | Plugin for connecting to the scene authoring system [PolyVR](https://github.com/Victor-Haefner/polyvr) |
+| Solar Potential (under development) | Calculating the solar potential for wall or roof surfaces based on different transposition modells |
+| CRREM Pathway (under development) | Tool for calculating the CREEM pathway of individual buildings |
 
 ## Plugin installation
 
