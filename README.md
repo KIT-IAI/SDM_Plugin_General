@@ -13,7 +13,7 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [Papermodel Generator](https://github.com/KIT-IAI/SDM_Plugin_Papermodel) | Generation of paper models for individual CityGML buildings |
 | [Glaser Calc](https://github.com/KIT-IAI/SDM_Plugin_GlaserCalc) | Calculation of the Glaser diagram for individual IFC building elements |
 | [Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel) | Preparation and checking of IFC models for 3D printing |
-| [EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) <br>(coming soon)| Enrichment of CityGML building models for thermal simulation through the use of EnergyADE |
+| [EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) <br>(coming soon)| Enrichment of CityGML building models for thermal simulation through the use of EnergyADE, using the [NaiS database]() |
 | [IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) | Python plugin for the calculation of trusses based on IFC structural analysis elements |
 | [OSM BuildingCreator LoD1](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator_LoD1) | Creating 3D CityGML buildings based on OpenStreetMap (OSM) |
 | [OSM BuildingCreator LoD2](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator_LoD2) <br>(coming soon)| Creating 3D CityGML buildings based on OpenStreetMap (OSM) |
@@ -22,7 +22,7 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [Google 3D Tiles](https://github.com/KIT-IAI/SDM_Plugin_3DTiles) | Plugin for integrating Google Maps 3D Tiles |
 | [PolyVR](https://github.com/KIT-IAI/SDM_Plugin_polyvr_client)<br>(coming soon) | Plugin for connecting to the scene authoring system [PolyVR](https://github.com/Victor-Haefner/polyvr) |
 | Solar Potential (under development) | Calculating the solar potential for wall or roof surfaces based on different transposition modells |
-| CRREM Pathway (under development) | Tool for calculating the CREEM pathway of individual buildings |
+| CRREM Pathway (under development) | Tool for calculating the CREEM pathway of individual buildings, using the [NaiS database]() |
 
 ## Plugin installation
 
