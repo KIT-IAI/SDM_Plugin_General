@@ -21,9 +21,9 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [GlobalBuildingAtlas BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) | Creating 3D CityGML buildings based on [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) |
 | [Google 3D Tiles](https://github.com/KIT-IAI/SDM_Plugin_3DTiles) | Plugin for integrating Google Maps 3D Tiles |
 | [PolyVR](https://github.com/KIT-IAI/SDM_Plugin_polyvr_client)<br>(coming soon) | Plugin for connecting to the scene authoring system [PolyVR](https://github.com/Victor-Haefner/polyvr) |
-| [Solar Potential](https://github.com/KIT-IAI/SDM_Plugin_solarpotential) (under development) | Calculating the solar potential for wall or roof surfaces based on different transposition modells |
+| [Solar Potential](https://github.com/KIT-IAI/SDM_Plugin_solarpotential)<br>(under development) | Calculating the solar potential for wall or roof surfaces based on different transposition modells |
 | [CRREM Pathway](https://github.com/KIT-IAI/SDM_Plugin_crrem_pathway) | Tool for calculating the CREEM pathway of individual buildings, using the [NaiS database](https://github.com/KIT-IAI/SDM_NaiS-DB) |
-| [OSM BuildingAnalyzer](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuilldingAnalyzer) (under development) | Analysis of OSM building data for use in thermal building simulation |
+| [OSM BuildingAnalyzer](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuilldingAnalyzer)<br>(under development) | Analysis of OSM building data for use in thermal building simulation |
 
 ## Plugin installation
 
