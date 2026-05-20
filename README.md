@@ -23,7 +23,7 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [PolyVR](https://github.com/KIT-IAI/SDM_Plugin_polyvr_client)<br>(coming soon) | Plugin for connecting to the scene authoring system [PolyVR](https://github.com/Victor-Haefner/polyvr) |
 | [Solar Potential](https://github.com/KIT-IAI/SDM_Plugin_solarpotential)<br>(under development) | Calculating the solar potential for wall or roof surfaces based on different transposition modells |
 | [CRREM Pathway](https://github.com/KIT-IAI/SDM_Plugin_crrem_pathway) | Tool for calculating the CREEM pathway of individual buildings, using the [NaiS database](https://github.com/KIT-IAI/SDM_NaiS-DB) |
-| [OSM2UBEM_Analyzer](https://github.com/KIT-IAI/SDM_Plugin_OSM2UBEM_Analyzer)<br>(under development) | Analysis of OSM building data for use in thermal building simulation |
+| [OSM4UBEM_Analyzer](https://github.com/KIT-IAI/SDM_Plugin_OSM4UBEM_Analyzer)<br>(under development) | Analysis of OSM building data for use in thermal building simulation |
 
 ## Plugin installation
 
