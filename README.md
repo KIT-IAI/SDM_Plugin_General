@@ -15,8 +15,8 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [Print 3D Model](https://github.com/KIT-IAI/SDM_Plugin_Print3DModel) | Preparation and checking of IFC models for 3D printing |
 | [EnergyADE Enrichment](https://github.com/KIT-IAI/SDM_Plugin_EnergyADE_Enrichment) | Enrichment of CityGML building models for thermal simulation through the use of EnergyADE, using the [NaiS database](https://github.com/KIT-IAI/SDM_NaiS-DB) |
 | [IfcTruss](https://github.com/KIT-IAI/SDM_Plugin_IfcTruss) | Python plugin for the calculation of trusses based on IFC structural analysis elements |
-| [OSM BuildingCreator LoD1](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator_LoD1) | Creating 3D CityGML buildings based on OpenStreetMap (OSM) |
-| [OSM BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator_LoD2)<br>(coming soon) | Creating 3D CityGML buildings based on OpenStreetMap (OSM) |
+| [OSM BuildingCreator LoD1](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator_LoD1) | Creating 3D CityGML buildings LoD1 based on OpenStreetMap (OSM) |
+| [OSM BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_OSM_BuildingCreator_LoD2)<br>(coming soon) | Creating 3D CityGML buildings LoD2 based on OpenStreetMap (OSM) |
 | [ETHOS.BUILDA BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_ETHOS-BUILDA-BuildingCreator) | Creating 3D CityGML buildings based on [ETHOS.BUILDA](https://ethos-builda.fz-juelich.de/api/v8_20240916/swagger/) |
 | [GlobalBuildingAtlas BuildingCreator](https://github.com/KIT-IAI/SDM_Plugin_GlobalBuildingAtlas-BuildingCreator) | Creating 3D CityGML buildings based on [GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) |
 | [Google 3D Tiles](https://github.com/KIT-IAI/SDM_Plugin_3DTiles) | Plugin for integrating Google Maps 3D Tiles |
