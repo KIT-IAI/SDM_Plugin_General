@@ -25,6 +25,7 @@ Here you will find the [Plugin Feature Doucumentation](Plugin_Features.md)
 | [CRREM Pathway](https://github.com/KIT-IAI/SDM_Plugin_crrem_pathway) | Tool for calculating the CREEM pathway of individual buildings, using the [NaiS database](https://github.com/KIT-IAI/SDM_NaiS-DB) |
 | [OSM4UBEM_Analyzer](https://github.com/KIT-IAI/SDM_Plugin_OSM4UBEM_Analyzer) | Analysis of OSM building data for use in thermal building simulation |
 | [EnergyPlus FMU Export](https://github.com/KIT-IAI/SDM_Plugin_EnergyPlus_FMU_Export) | Export of CityGML EnergyADE building models as EnergyPlus Functional Mock-up Unit |
+| [CityGML Building Property Editor](https://github.com/KIT-IAI/SDM_Plugin_Building_Property_Editor) | Python plugin for editing the properties of CityGML buildings or building parts |
 
 ## Plugin installation
 
